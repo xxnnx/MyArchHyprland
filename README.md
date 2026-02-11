@@ -1,5 +1,5 @@
 # MyArchHyprland
-Мой арч, так же сделал скрипт по смене обоев
+Мой арч, так же сделал скрипт по смене обоев (цвета системы меняются под доминирующие цвета ваших обоев)
 
 ## Waybar
 <img width="2160" height="78" alt="image" src="https://github.com/user-attachments/assets/b3ae6bc5-f2d2-45cb-807d-5a1a83643809" />
