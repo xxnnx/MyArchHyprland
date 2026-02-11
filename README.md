@@ -21,3 +21,5 @@ chmod +x install.sh
 
 ## Hyprlock
 <img width="2160" height="1440" alt="hyprlock_screen" src="https://github.com/user-attachments/assets/e60d7751-66d8-425c-bc83-d52c3b5449aa" />
+
+# Горячие клавиши:
