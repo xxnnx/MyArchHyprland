@@ -7,6 +7,9 @@
 ## kitty
 <img width="2141" height="673" alt="image" src="https://github.com/user-attachments/assets/6c1c7d6e-56ba-4071-9994-18352ef75478" />
 
+## Hyprlock
+<img width="2160" height="1440" alt="hyprlock_screen" src="https://github.com/user-attachments/assets/e60d7751-66d8-425c-bc83-d52c3b5449aa" />
+
 
 Для запуска скрипта, нужно скачать файл и запустить его
 ```
