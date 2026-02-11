@@ -1,0 +1,33 @@
+@import url("../../.cache/wal/colors-waybar.css");
+
+* {
+    /* Используем точное имя из твоего списка */
+    font-family: "JetBrainsMono Nerd Font", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+window#waybar {
+    background: @background;
+    color: @foreground;
+    border-radius: 18px;
+    margin: 8px 12px;
+}
+
+/* Принудительно для всех надписей и иконок */
+label {
+    font-family: "JetBrainsMono Nerd Font";
+}
+
+#workspaces button {
+    padding: 0 10px;
+    color: @foreground;
+}
+
+#workspaces button.active {
+    color: @color2;
+}
+
+#clock, #network, #pulseaudio, #battery {
+    padding: 0 12px;
+}

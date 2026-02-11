@@ -1,0 +1,14 @@
+configuration {
+    modi: "drun,run";
+    show-icons: true;
+    terminal: "kitty";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: true;
+    display-drun: " 🔍  Search: ";
+}
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi" // Стандартная, но аккуратная тема
+
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
