@@ -1,5 +1,5 @@
 # MyArchHyprland
-What i am using in arch, and my configuration
+Мой арч
 
 Для запуска скрипта, нужно скачать файл и запустить его
 ```
@@ -9,3 +9,4 @@ chmod +x install.sh
 
 > [!TIP]
 > Вы берете всю ответственность на себя.
+> Вы скачиваете пакет программ, и конфигурацию для hyprland/waybar/rofi
