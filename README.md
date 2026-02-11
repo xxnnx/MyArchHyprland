@@ -5,7 +5,6 @@
 <img width="2160" height="78" alt="image" src="https://github.com/user-attachments/assets/b3ae6bc5-f2d2-45cb-807d-5a1a83643809" />
 
 ## kitty
-<img width="2145" height="770" alt="image" src="https://github.com/user-attachments/assets/0328b7eb-8908-4852-b665-66e8eb32df84" />
 <img width="2141" height="673" alt="image" src="https://github.com/user-attachments/assets/6c1c7d6e-56ba-4071-9994-18352ef75478" />
 
 
